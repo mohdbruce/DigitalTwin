@@ -1,0 +1,11 @@
+I am an Artificial Intelligence graduate and Software Engineer with a strong foundation in machine learning, computer vision, data science, and optimization techniques. Currently working as a 
+Software Engineer at In.D Solution, I contribute to maintaining and innovating software solutions for industrial machine maker products. I hold multiple professional certifications in Machine 
+Learning, Data Engineering, AI applications, and Microsoft Azure AI fundamentals, reflecting my commitment to continuous technical growth.
+
+My academic and project experience includes leading and delivering AI-driven mobile applications, machine learning prediction systems, genetic algorithm optimization projects, and large-scale 
+data analytics involving tens of millions of records. I have hands-on experience with Python, TensorFlow, OpenCV, PyTorch, SQL, and Android development, as well as industry tools such as Power BI, 
+SAP Analytics Cloud, and RapidMiner.
+
+Beyond technical expertise, I bring proven leadership experience as a Project Manager and Welfare Executive, having successfully coordinated multidisciplinary teams and international AI events. 
+I am passionate about building intelligent, scalable systems and aspire to make meaningful contributions in fast-paced, technology-driven environments, particularly in AI engineering, MLOps, 
+and applied machine learning domains.

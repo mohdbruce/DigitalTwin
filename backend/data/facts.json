@@ -1,0 +1,22 @@
+{
+    "full_name": "Mohd Bruce Lee Bin Mustapa",
+    "name": "Bruce",
+    "current_role": "AI Research Engineer",
+    "location": "Alor Gajah",
+    "email": "mohdbrucelee@gmail.com",
+    "linkedin": "linkedin.com/in/mohdbruce",
+    "specialties": [
+      "AI Engineering",
+      "ML Engineering",
+      "MLOps Engineering",
+      "LLMOps Engineering"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Bachelor of Computer Science (Artificial Intelligence) Hons",
+        "institution": "Universiti Teknikal Malaysia Melaka",
+        "year": "2025"
+      }
+    ]
+  }
